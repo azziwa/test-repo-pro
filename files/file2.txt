@@ -1,0 +1,11 @@
+<code>
+	This is a small piece of code.
+</code>
+<code>
+	This is another piece of code.
+</code>
+<recode>
+	<embed>This is an embedded piece of code</embed>
+</recode>
+
+Another end of file here.
